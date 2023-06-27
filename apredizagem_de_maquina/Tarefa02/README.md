@@ -14,4 +14,11 @@ O Google Colab é uma plataforma online que permite escrever e executar código 
 
 Abrindo o código [Tema_02.ipynb](/apredizagem_de_maquina/Tarefa02/Tema_02.ipynb) Você vai encontar o código bem comentado para seu melhor entendimento, esperamos que você consiga aprender sobre como chegamos no resultado final e bons estudos.
 
+
+<br>
+
+# Todos os créditos do código e da explicação são direcionados a:
+**Livro:** Géron, Aurélien. Hands-On Machine Learning with Scikit-Learn & TensorFlow.  United States of America: O’Reilly, 2017.
+
+**Repositório do github com o código:** Géron, Aurélien. handson-ml2. GitHub, 2023. Disponível em: https://github.com/ageron/handson-ml2/blob/master/03_classification.ipynb Acesso em: 13 de janeiro de 2023.
    
