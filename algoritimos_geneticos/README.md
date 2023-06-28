@@ -4,20 +4,7 @@ Este é um exemplo de implementação de um algoritmo genético para a coloraç�
 
 ## Descrição do Código
 
-O código consiste em várias funções que desempenham papéis específicos no algoritmo genético:
-
-- `colorir_grafo(grafo)`: Função que atribui cores aos vértices de um grafo de forma que vértices adjacentes não possuam a mesma cor.
-
-- `avaliar_coloracao(grafo, color_map)`: Função que avalia a qualidade de uma coloração, contando o número de conflitos de cores entre vértices adjacentes.
-
-- `gerar_populacao_inicial(grafo, tamanho_populacao)`: Função que gera uma população inicial de colorações aleatórias.
-
-- `cruzamento(pai1, pai2)`: Função que realiza o cruzamento de dois indivíduos (colorações) para gerar um filho.
-
-- `mutacao(individuo, taxa_mutacao)`: Função que aplica mutações em um indivíduo (coloração) com uma determinada taxa de mutação.
-
-- `algoritmo_genetico(grafo, tamanho_populacao, taxa_cruzamento, taxa_mutacao, num_geracoes)`: Função principal que executa o algoritmo genético para encontrar a melhor coloração para o grafo.
-
+A descrição completa do código se encontra [AQUI](https://colab.research.google.com/drive/1lc5YokleIqFe-MJ8yKn5QuJBxE342qrD)
 ## Utilização
 
 - O código possui um exemplo de uso no final do arquivo.
