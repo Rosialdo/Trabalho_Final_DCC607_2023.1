@@ -4,7 +4,7 @@ Este é um exemplo de implementação de um algoritmo genético para a coloraç�
 
 ## Descrição do Código
 
-A descrição completa do código se encontra [AQUI](https://colab.research.google.com/drive/1lc5YokleIqFe-MJ8yKn5QuJBxE342qrD)
+A descrição completa do código se encontra [AQUI](https://colab.research.google.com/drive/1lc5YokleIqFe-MJ8yKn5QuJBxE342qrD?usp=sharing)
 ## Utilização
 
 - O código possui um exemplo de uso no final do arquivo.
